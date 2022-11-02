@@ -36,3 +36,7 @@ I made a website about fashion, but basically what I did was to take a design fr
 `https://diegolibonati.github.io/DiegoLibonatiWeb/#/projects?q=Fashion%20page`
 
 ## Video
+
+
+https://user-images.githubusercontent.com/99032604/199380882-d39ca0e4-6060-4e38-9152-d05d073eb552.mp4
+
