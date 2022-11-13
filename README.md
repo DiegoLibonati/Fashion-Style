@@ -33,7 +33,7 @@ I made a website about fashion, but basically what I did was to take a design fr
 
 ## Portfolio Link
 
-`https://diegolibonati.github.io/DiegoLibonatiWeb/#/projects?q=Fashion%20page`
+`https://diegolibonati.github.io/DiegoLibonatiWeb/#/projects?q=Fashion%20Page`
 
 ## Video
 
