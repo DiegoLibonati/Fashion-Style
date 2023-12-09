@@ -23,18 +23,6 @@ I made a website about fashion, but basically what I did was to take a design fr
 2. Javascript
 3. HTML5
 
-## Galery
-
-![Fashion-Car](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/Css/Imagenes/fashion-0.jpg)
-
-![Fashion-Car](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/Css/Imagenes/fashion-1.jpg)
-
-![Fashion-Car](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/Css/Imagenes/fashion-2.jpg)
-
-## Portfolio Link
-
-`https://diegolibonati.github.io/DiegoLibonatiWeb/#/projects?q=Fashion%20Page`
-
 ## Video
 
 https://user-images.githubusercontent.com/99032604/199380882-d39ca0e4-6060-4e38-9152-d05d073eb552.mp4
