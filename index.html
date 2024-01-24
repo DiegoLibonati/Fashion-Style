@@ -1,49 +1,44 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
     <title>Fashion</title>
 
-    <link rel="stylesheet" type="text/css" href="estilos.css">
+    <link rel="stylesheet" type="text/css" href="./src/styles.css" />
 
-    <script src="https://kit.fontawesome.com/41faca984e.js" crossorigin="anonymous"></script>
+    <script
+      src="https://kit.fontawesome.com/41faca984e.js"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+  <body class="bg-[#EF4A4B] w-full md:h-screen px-6 lg:px-8">
+    <header class=" flex flex-col bg-[#EC8E6A] py-4 lg:flex-row lg:items-center lg:justify-around lg:h-[20%]">
+      <div class="flex flex-row items-center justify-center">
+        <i class="fa-solid fa-shirt text-[#EF4A4B] text-3xl md:text-4xl"></i>
+        <h1 class="text-3xl text-[#EF4A4B] font-bold ml-2 italic md:text-5xl">Fashion Style</h1>
+      </div>
 
-
-</head>
-<body>
-
-    <header class="header_container">
-
-        <div class="header_container-title">
-            <i class="fa-solid fa-shirt"></i>
-            <h1>Fashion Style</h1>
-        </div>
-
-        <div class="header_container-button">
-            <button type="button">Visit Us</button>
-        </div>
-
+      <div class="flex items-center justify-center mt-2">
+        <button type="button" class="bg-[#EF4A4B] w-[10rem] text-white p-2 italic cursor-pointer md:text-2xl">Visit Us</button>
+      </div>
     </header>
 
-    <section class="section_container">
+    <main class="flex flex-col w-full bg-[#EC8E6A] lg:flex-row lg:h-[80%] lg:justify-around">
+      <section class="flex flex-col items-center justify-center mt-2 lg:justify-start">
+        <h2 class="text-2xl font-semibold italic md:text-4xl lg:mb-10">Our New Clothing Line</h2>
+        <p class="text-xl italic md:text-3xl lg:mb-10">View 2024 Designs Today</p>
+        <img src="./src/assets/img-2.jpg" alt="clothes" class="mt-2 w-[75%] border-[#EF4A4B] border-t-4 border-l-4 md:w-[50%] lg:w-[95%]" />
+      </section>
 
-        <div class="section_container-div1">
-            <h2>Our New Clothing Line</h2>
-            <p>View 2022 Designs Today</p>
-            <img src="templates/img-2.jpg" alt="clothes">
-        </div>
+      <section class="flex flex-col items-center justify-center mt-2 lg:justify-end">
+        <img src="./src/assets/1.jpg" alt="clothes" class="mt-2 w-[75%] border-[#EF4A4B] border-b-4 border-r-4 md:w-[50%] lg:w-[95%] lg:mb-10"/>
+        <button type="button" class="my-2 bg-[#EF4A4B] w-[10rem] text-white p-2 italic cursor-pointer md:text-2xl lg:mb-10">Shop Now</button>
+      </section>
+    </main>
 
-        <div class="section_container-div2">
-            <img src="templates/1.jpg" alt="clothes">
-            <button type="button">Shop Now</button>
-        </div>
-
-    </section>
-
-    <script src="codigo.js"></script>
-</body>
+    <script src="./src/script.ts"></script>
+  </body>
 </html>
-
