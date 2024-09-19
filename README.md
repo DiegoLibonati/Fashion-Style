@@ -1,4 +1,4 @@
-# Fashion-Page
+# Fashion Style
 
 ## Getting Started
 
@@ -32,7 +32,7 @@ I made a website about fashion, but basically what I did was to take a design fr
 
 ## Portfolio Link
 
-[`https://www.diegolibonati.com.ar/#/project/98`](https://www.diegolibonati.com.ar/#/project/98)
+[`https://www.diegolibonati.com.ar/#/project/Fashion-Style`](https://www.diegolibonati.com.ar/#/project/Fashion-Style)
 
 ## Video
 
